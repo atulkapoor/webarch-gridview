@@ -1,0 +1,7 @@
+{
+    "name": "webarch-gridview/webarch-gridview",
+    "description": "Implements the webarch theme into Yii Grid View",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
